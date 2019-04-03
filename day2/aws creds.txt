@@ -1,0 +1,6 @@
+
+Sign in link : https://cloudenabled4.signin.aws.amazon.com/console
+
+
+UserName     : itcuser
+Password     : root1234
